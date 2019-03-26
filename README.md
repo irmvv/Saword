@@ -1,2 +1,2 @@
 # Saword
-A password manager developed with electron
+A password manager
